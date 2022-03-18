@@ -1,7 +1,7 @@
 # **Machine learning k 7 important models/algorithms or un ki description ye rahi ap ki computer screen per:**
 
 ## 1. **Linear Regression**
-Is mode main ap aik linear equation k sath 2 numeric paramters ka relationship dekhtay hyn
+Is model main ap aik linear equation k sath 2 numeric paramters ka relationship dekhtay hyn
 ## 2. **Logistics Regression**
 Is model main ap aik logistic function ko use kar k binary dependet variable ko classify kartay hyn (e.g: Sigmoid function)
 ## 3. **Decision Tree**
