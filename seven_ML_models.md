@@ -3,7 +3,7 @@
 ## 1. **Linear Regression**
 Is model main ap aik linear equation k sath 2 numeric paramters ka relationship dekhtay hyn
 ## 2. **Logistics Regression**
-Is model main ap aik logistic function ko use kar k binary dependet variable ko classify kartay hyn (e.g: Sigmoid function)
+Is model main ap aik logistic function ko use kar k binary dependent variable ko classify kartay hyn (e.g: Sigmoid function)
 ## 3. **Decision Tree**
 Is main ap trees bnatay hyn decision ki base per or data yani k roots se leaves yani k output predict kartay hyn conditions laganay k baad
 ## 4. **Support vector machine**
